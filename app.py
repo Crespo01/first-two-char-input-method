@@ -21,3 +21,4 @@ if __name__ == '__main__':
             break
         ts = ukt(mk, txt)
         print(ts)
+ 
